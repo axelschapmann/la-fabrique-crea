@@ -2,7 +2,7 @@
     display: none;
 }
 
-.bpw-widget-btn {
+..bpw-layout {
     width: 50px; /* adjust as necessary */
     height: 50px; /* adjust as necessary */
     border-radius: 50%;

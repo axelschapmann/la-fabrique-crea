@@ -102,12 +102,12 @@
 
 .iframe-bot {
     position: fixed;
-    right: 10px; /* adjust as needed */
-    top: 10px; /* adjust as needed */
-    bottom: 10px; /* adjust as needed */
+    right: 20px;
+    top: 20px;
+    bottom: 20px;
     width: 80%;
-    height: calc(100% - 20px); /* adjust as needed */
-    max-height: 900px; /* adjust as needed */
+    height: calc(100% - 20px);
+    max-height: 900px;
     border: none;
-    z-index: 1000; /* adjust as needed to make sure the iframe is above other elements */
+    z-index: 1000;
 }

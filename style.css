@@ -1,3 +1,9 @@
 .bpw-bubble-proactive-trigger {
     display: none;
 }
+
+.bpw-widget-btn {
+    width: 50px; /* adjust as necessary */
+    height: 50px; /* adjust as necessary */
+    border-radius: 50%;
+}

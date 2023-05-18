@@ -6,6 +6,14 @@
      border: 0.5px solid #b6b6b6;
      border-radius: 8px;
      overflow: hidden;
+     right: 10px; /* adjust as needed */
+    top: 10px; /* adjust as needed */
+    bottom: 10px; /* adjust as needed */
+    width: 80%;
+    height: calc(100% - 20px); /* adjust as needed */
+    max-height: 900px; /* adjust as needed */
+    border: none;
+    z-index: 1000; /* adjust as needed to make sure the iframe is above other elements */
 }
  .bpw-header-container {
      border-top:none;
@@ -100,14 +108,3 @@
   font-family: 'Roboto';
 }
 
-.iframe-bot {
-    position: fixed;
-    right: 20px;
-    top: 20px;
-    bottom: 20px;
-    width: 80%;
-    height: calc(100% - 20px);
-    max-height: 900px;
-    border: none;
-    z-index: 1000;
-}

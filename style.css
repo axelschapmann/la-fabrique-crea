@@ -6,14 +6,12 @@
      border: 0.5px solid #b6b6b6;
      border-radius: 8px;
      overflow: hidden;
-     right: 10px; /* adjust as needed */
-    top: 10px; /* adjust as needed */
-    bottom: 10px; /* adjust as needed */
+     margin: 10px 50px;
+    border: 2px solid gray;
     width: 80%;
-    height: calc(100% - 20px); /* adjust as needed */
-    max-height: 900px; /* adjust as needed */
-    border: none;
-    z-index: 1000; /* adjust as needed to make sure the iframe is above other elements */
+    height: calc(100% - 20px);
+    max-height: 900px;
+    z-index: 1000;
 }
  .bpw-header-container {
      border-top:none;

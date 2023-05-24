@@ -15,6 +15,9 @@ body {
 .bpw-layout {
     height: 90%;
 }
+.bpw-bubble-dropdown {
+    z-index: 9999;
+}
  .bpw-header-container {
      border-top:none;
 }

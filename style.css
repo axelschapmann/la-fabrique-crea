@@ -7,7 +7,8 @@ body {
 }
  .bpw-chat-container {
      border: 0.5px solid #b6b6b6;
-     border-radius: 8px;
+     border-radius: 25px;
+     margin : 20px 60px;
      overflow: hidden;
 }
  .bpw-header-container {

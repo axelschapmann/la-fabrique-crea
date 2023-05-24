@@ -10,7 +10,6 @@ body {
      border-radius: 25px;
      margin : 20px 60px;
      height: calc(100% - 40px);
-     max-height: 900px;
      overflow: hidden;
 }
  .bpw-header-container {

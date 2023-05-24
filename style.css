@@ -2,22 +2,25 @@
     display: none;
 }
 
- .bpw-chat-container .bpw-layout {
+body {
+     font-size: 14px;
+}
+ .bpw-chat-container {
      border: 0.5px solid #b6b6b6;
      border-radius: 8px;
      overflow: hidden;
-     margin: 10px 50px;
-    border: 2px solid gray;
-    width: 80%;
-    height: calc(100% - 20px);
-    max-height: 900px;
-    z-index: 1000;
 }
  .bpw-header-container {
      border-top:none;
 }
  .bpw-header-container {
      padding-left:0.5rem 
+}
+ #btn-delete-conversation {
+     display:none;
+}
+ #btn-download {
+     display:none;
 }
  .bpw-widget-btn {
      border-radius:50%;
@@ -106,3 +109,6 @@
   font-family: 'Roboto';
 }
 
+body >div:nth-child(3) {
+ display:none;
+}

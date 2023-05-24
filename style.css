@@ -12,6 +12,9 @@ body {
      height: calc(100% - 40px);
      overflow: hidden;
 }
+.bpw-layout {
+    height: 90%;
+}
  .bpw-header-container {
      border-top:none;
 }

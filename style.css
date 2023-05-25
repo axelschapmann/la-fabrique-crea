@@ -15,8 +15,8 @@ body {
 .bpw-layout {
     height: 90%;
 }
-.bpw-bubble-dropdown {
-    z-index: 9999;
+.bpw-date-container {
+    margin-top : 120px;
 }
  .bpw-header-container {
      border-top:none;

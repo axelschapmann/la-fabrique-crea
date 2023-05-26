@@ -55,6 +55,8 @@ body {
 
 .bpw-widget-btn {
   background-color: #000000;
+  border-radius:50%;
+  box-shadow: none;
 }
 
 .bpw-message-read-more {

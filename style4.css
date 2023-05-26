@@ -147,7 +147,7 @@ width : 100% !important;
 
 body {
     font-size: 1rem !important;
-    max-height: 73vh !important;
+    /* max-height: 73vh !important;*/
 }
 
 body >div:nth-child(3) {

@@ -7,6 +7,11 @@
     z-index: 999;
 }
 
+#bp-widget.bp-widget-side .bp-widget-widget {
+    width: 2000px !important;
+    height: 80% !important;
+}
+
 .bp-widget-web {
     background: none transparent;
     border: none;

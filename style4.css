@@ -8,7 +8,7 @@
 }
 
 #bp-widget.bp-widget-side .bp-widget-widget {
-    width: 2000px !important;
+    width: 100% !important;
     height: 80% !important;
 }
 

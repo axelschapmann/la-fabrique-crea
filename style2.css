@@ -58,8 +58,6 @@ body {
   background: none;
   border: 0px;
   display: inline-block;
-  border-radius:50%;
-  box-shadow: none;
 }
 
 .bp-emulator-history .bpw-bubble-carousel {
@@ -69,6 +67,8 @@ body {
 
 .bpw-widget-btn {
   background-color: #000000;
+  border-radius:50%;
+  box-shadow: none;
 }
 
 .bpw-message-read-more {

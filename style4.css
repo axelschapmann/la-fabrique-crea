@@ -12,6 +12,11 @@
     height: 80% !important;
 }
 
+.bpw-widget-btn > i > svg {
+  width: 100px;
+  height: 100px;
+}
+
 .bp-widget-web {
     background: none transparent;
     border: none;

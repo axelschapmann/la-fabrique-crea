@@ -74,28 +74,7 @@
 }
 
 .bpw-keyboard-quick_reply button {
-	padding:6px 8px;
-	background-color:var(--main-bg-color);
-	font-size:1rem;
-	min-width:initial;
-	min-height:initial;
-	text-align:center;
-	border:1px solid currentColor;
-	border-radius:12px;
-	cursor:pointer;
-	margin:3px 2px;
-	text-transform:none;
-	overflow:visible;
-	color:#000;
-	background:#f4f4f5;
-	border-image-source:initial;
-	border-image-slice:initial;
-	border-image-width:initial;
-	border-image-outset:initial;
-	border-image-repeat:initial;
-	border-color:#d4d4d8;
-	border-style:solid;
-	border-width:1px
+    /* styles */
 }
 
 .bpw-keyboard-single-choice {
@@ -111,6 +90,10 @@
     border-radius: 50%;
     box-shadow: none;
     background-color: #ab0535;
+    font-size: 1.5rem !important;  /* Increase the button size */
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
 }
 
 body {
@@ -123,7 +106,6 @@ body >div:nth-child(3) {
 }
 
 @media (max-width: 768px) {
-	
     #bp-widget.bp-widget-side {
         bottom: 0;
         right: 0;
@@ -138,11 +120,11 @@ body >div:nth-child(3) {
 
     .bpw-chat-container {
         border: .5px solid #db3e1f;
-	border-radius:25px;
-	margin:0px 0px;
-	height:calc(100%);
-	overflow:hidden
-     }
+        border-radius:25px;
+        margin:0px;
+        height:calc(100%);
+        overflow:hidden;
+    }
 
     .bpw-button {
         font-size: 1rem !important;
@@ -159,18 +141,20 @@ body >div:nth-child(3) {
     body {
         max-height: 100vh !important;
     }
+
+    .bpw-widget-btn {
+        font-size: 2rem !important;  /* Increase the button size on mobile */
+    }
 }
 
-.bpw-chat-container
-{
-	border:.5px solid #b6b6b6;
-	border-radius:25px;
-	margin:20px 60px;
-	height:calc(100% - 40px);
-	overflow:hidden
+.bpw-chat-container {
+    border:.5px solid #b6b6b6;
+    border-radius:25px;
+    margin:20px 60px;
+    height:calc(100% - 40px);
+    overflow:hidden;
 }
 
-.bpw-date-container
-{
-	margin-top:150px
+.bpw-date-container {
+    margin-top:150px;
 }

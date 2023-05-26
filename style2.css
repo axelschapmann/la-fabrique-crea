@@ -11,9 +11,7 @@
      height: calc(100% - 40px);
      overflow: hidden;
 }
-.bpw-layout {
-    height: 90%;
-}
+
 .bpw-date-container {
     margin-top : 150px;
 }
@@ -60,6 +58,8 @@ body {
   background: none;
   border: 0px;
   display: inline-block;
+  border-radius:50%;
+  box-shadow: none;
 }
 
 .bp-emulator-history .bpw-bubble-carousel {
@@ -69,8 +69,6 @@ body {
 
 .bpw-widget-btn {
   background-color: #000000;
-  border-radius:50%;
-  box-shadow: none;
 }
 
 .bpw-message-read-more {
@@ -100,7 +98,7 @@ body {
   position: fixed;
   bottom: 0;
   right: 0;
-  height: 100%;
+  height: 90%;
   border-left: 1px solid #ccc;
   -webkit-box-orient: vertical;
   -ms-flex-direction: column;

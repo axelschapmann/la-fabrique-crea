@@ -2,7 +2,7 @@
     display: none !important;
 }
 body {
-  font-size: 8px !important;
+  font-size: 10px !important;
   max-height: 73vh !important;
 }
 .bpw-chat-container {
@@ -124,12 +124,13 @@ display:none;
 }
 
 .bp-widget-side {
-  bottom: 0;
-height: 79% !important;
-left: auto;
-right: 0;
-top: 0;
-width: 361px !important;
+  bottom: 20px;  /* Added bottom margin */
+  right: 20px;  /* Added right margin */
+  height: 79% !important;
+  left: auto;
+  top: auto; /* Set top position to auto */
+  width: 361px !important;
+  position: fixed; /* Added to position the bot bubble */
 }
 .bp-widget-web {
   -webkit-font-smoothing: antialiased;
@@ -180,7 +181,7 @@ width: 361px !important;
     font-size:12px !important;
     }
     .bpw-chat-bubble-content{
-      font-size: 0.6rem!important;
+      font-size: 0.8rem!important;
     }
     .bpw-widget-btn {
       background-color: #ab0535;

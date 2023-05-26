@@ -114,11 +114,11 @@
     border-radius: 50%;
     box-shadow: none;
     background-color: #ab0535;
-    width: 50px;   /* Width of the button */
-    height: 50px;  /* Height of the button */
+    width: 75px;   /* Width of the button */
+    height: 75px;  /* Height of the button */
     position: fixed;
-    bottom: 10px;
-    right: 10px;
+    bottom: 50px;
+    right: 50px;
 }
 
 body {
@@ -160,8 +160,8 @@ body >div:nth-child(3) {
     .bpw-widget-btn {
         width: 70px;   /* Width of the button on mobile */
         height: 70px;  /* Height of the button on mobile */
-        bottom: 15px;
-        right: 15px;
+        bottom: 30px;
+        right: 30px;
     }
 
     .bpw-header-title,

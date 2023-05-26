@@ -187,10 +187,10 @@ body >div:nth-child(3) {
     }
 
     .bpw-widget-btn {
-        width: 70px;   /* Width of the button on mobile */
-        height: 70px;  /* Height of the button on mobile */
-        bottom: 30px;
-        right: 30px;
+        width: 100px;   /* Width of the button on mobile */
+        height: 100px;  /* Height of the button on mobile */
+        bottom: 50px;
+        right: 50px;
     }
 
     .bpw-header-title,

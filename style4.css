@@ -7,20 +7,6 @@
     z-index: 999;
 }
 
-.bpw-chat-container
-{
-	border:.5px solid #b6b6b6;
-	border-radius:25px;
-	margin:20px 60px;
-	height:calc(100% - 40px);
-	overflow:hidden
-}
-
-.bpw-date-container
-{
-	margin-top:150px
-}
-
 .bp-widget-web {
     background: none transparent;
     border: none;
@@ -173,4 +159,18 @@ body >div:nth-child(3) {
     body {
         max-height: 100vh !important;
     }
+}
+
+.bpw-chat-container
+{
+	border:.5px solid #b6b6b6;
+	border-radius:25px;
+	margin:20px 60px;
+	height:calc(100% - 40px);
+	overflow:hidden
+}
+
+.bpw-date-container
+{
+	margin-top:150px
 }

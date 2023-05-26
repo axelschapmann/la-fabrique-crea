@@ -113,8 +113,8 @@
     background-color: #ab0535;
     font-size: 1.5rem !important;  /* Increase the button size */
     position: fixed;
-    bottom: 10px;
-    right: 10px;
+    bottom: 50px;
+    right: 50px;
 }
 
 body {
@@ -165,6 +165,8 @@ body >div:nth-child(3) {
 
     .bpw-widget-btn {
         font-size: 2rem !important;  /* Increase the button size on mobile */
+	bottom: 30px;
+    	right: 30px;
     }
 }
 

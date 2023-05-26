@@ -1,3 +1,6 @@
+.bpw-bubble-proactive-trigger {
+    display: none !important;
+}
 /* Old version IE 10 and 11 only */
 :root {
   --main-bg-color: #ffffff;

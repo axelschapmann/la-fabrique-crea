@@ -25,7 +25,8 @@ body {
 .bpw-widget-btn {
   border-radius:50%;
   box-shadow: none;
-  background-color: #00000;
+  background-color: #ffffff;
+  color: #000000;
 }
 .bpw-from-user .bpw-chat-bubble > div{
   border-radius: 12px;

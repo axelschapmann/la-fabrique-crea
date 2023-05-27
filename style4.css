@@ -178,7 +178,9 @@ body >div:nth-child(3) {
         /* max-width: 100vw; */
         margin: 0 !important; /* Remove margin */
     }
-
+    body {
+    	font-size: 0.7rem !important;
+    }
     .bpw-chat-container {
         border: .5px solid #db3e1f;
         border-radius:25px;
@@ -199,15 +201,15 @@ body >div:nth-child(3) {
      }
 	
      .bpw-widget-btn > i > svg {
-            width: 30px;
-            height: 30px;
+            width: 20px;
+            height: 20px;
      }
 
     .bpw-widget-btn {
-        width: 75px;   /* Width of the button on mobile */
-        height: 75px;  /* Height of the button on mobile */
-        bottom: 50px;
-        right: 50px;
+        width: 55px;   /* Width of the button on mobile */
+        height: 55px;  /* Height of the button on mobile */
+        bottom: 30px;
+        right: 30px;
     }
 
     .bpw-header-title,

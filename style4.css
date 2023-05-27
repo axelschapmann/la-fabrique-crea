@@ -179,16 +179,16 @@ body >div:nth-child(3) {
         margin: 0 !important; /* Remove margin */
     }
     .bpw-header-name {
-        font-size: 0.8rem!important;
+        font-size: 0.6rem !important;
     }
     .bpw-header-subtitle {
-        font-size: 0.60rem!important;
+        font-size: 0.6rem !important;
     }
     .bpw-send-button{
-        font-size: 0.90rem!important;
+        font-size: 0.6rem !important;
     }
     .bpw-composer textarea{
-        font-size: 0.7rem !important;
+        font-size: 0.6rem !important;
     }
     .bpw-chat-bubble-content{
       font-size: 0.6rem!important;
@@ -206,6 +206,15 @@ body >div:nth-child(3) {
     .bpw-button {
         font-size: 1rem !important;
     }
+	.bpw-bot-avatar img {
+height:20px;
+width:20px;
+}
+
+.bpw-header-icon svg { 
+height: 20px;
+width: 20px;
+}
 	
     .bpw-layout {
 	    width : 100% !important;

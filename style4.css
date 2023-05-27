@@ -244,7 +244,7 @@ body >div:nth-child(3) {
     .bpw-header-subtitle,
     .bpw-send-button,
     .bpw-composer {
-        padding-left: 0.5rem !important;
+        padding-left: 0.2rem !important;
     }
 
     body {

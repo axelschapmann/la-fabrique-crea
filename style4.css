@@ -163,7 +163,7 @@ body >div:nth-child(3) {
     display: none;
 }
 
-@media (max-device-width: 768px) {
+@media (min-device-width: 768px) {
     #bp-widget.bp-widget-side {
         bottom: 0;
         right: 0;
@@ -201,6 +201,7 @@ body >div:nth-child(3) {
         overflow:hidden;
 	width: 100% !important;
 	max-width : 100% !important;
+	background-color : yellow !important;
     }
 
     .bpw-button {

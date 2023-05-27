@@ -179,19 +179,19 @@ body >div:nth-child(3) {
         margin: 0 !important; /* Remove margin */
     }
     .bpw-header-name {
-        font-size: 0.45rem !important;
-	}
-    .bpw-header-subtitle {
         font-size: 0.35rem !important;
+	}
+    .bpw-header-subtitle, .bpw-date-container {
+        font-size: 0.25rem !important;
     }
     .bpw-send-button{
-        font-size: 0.4rem !important;
+        font-size: 0.3rem !important;
     }
     .bpw-composer textarea{
-        font-size: 0.4rem !important;
+        font-size: 0.3rem !important;
     }
     .bpw-chat-bubble-content{
-      font-size: 0.4rem!important;
+      font-size: 0.3rem!important;
     }
     .bpw-chat-container {
         border: .5px solid #db3e1f;
@@ -205,7 +205,7 @@ body >div:nth-child(3) {
     }
 
     .bpw-button {
-        font-size: 0.3rem !important;
+        font-size: 0.2rem !important;
     }
     
 	.bpw-bot-avatar img {
@@ -223,7 +223,7 @@ body >div:nth-child(3) {
 	    	max-width : 100% !important;
      	}
 	body {
-    		font-size: 0.4rem !important;
+    		font-size: 0.3rem !important;
     		/* max-height: 73vh !important;*/
 	}
      	
@@ -244,7 +244,7 @@ body >div:nth-child(3) {
     .bpw-header-subtitle,
     .bpw-send-button,
     .bpw-composer {
-        padding-left: 1rem !important;
+        padding-left: 0.5rem !important;
     }
 
     body {

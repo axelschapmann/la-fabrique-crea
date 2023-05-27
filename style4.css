@@ -181,7 +181,7 @@ body >div:nth-child(3) {
     .bpw-header-name {
         font-size: 0.35rem !important;
 	}
-    .bpw-header-subtitle, .bpw-date-container {
+    .bpw-header-subtitle, .bpw-date-container, .bpw-keyboard {
         font-size: 0.25rem !important;
     }
     .bpw-send-button{

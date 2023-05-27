@@ -13,8 +13,8 @@
 }
 
 .bpw-widget-btn > i > svg {
-  width: 30px;
-  height: 30px;
+  width: 20px;
+  height: 20px;
 }
 
 .bp-widget-web {
@@ -147,8 +147,8 @@
     border-radius: 50%;
     box-shadow: none;
     background-color: #ab0535;
-    width: 75px;   /* Width of the button */
-    height: 75px;  /* Height of the button */
+    width: 65px;   /* Width of the button */
+    height: 65px;  /* Height of the button */
     position: fixed;
     bottom: 50px;
     right: 50px;
@@ -199,13 +199,13 @@ body >div:nth-child(3) {
      }
 	
      .bpw-widget-btn > i > svg {
-            width: 50px;
-            height: 50px;
+            width: 30px;
+            height: 30px;
      }
 
     .bpw-widget-btn {
-        width: 100px;   /* Width of the button on mobile */
-        height: 100px;  /* Height of the button on mobile */
+        width: 75px;   /* Width of the button on mobile */
+        height: 75px;  /* Height of the button on mobile */
         bottom: 50px;
         right: 50px;
     }

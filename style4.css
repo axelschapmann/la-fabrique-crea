@@ -246,6 +246,9 @@ body >div:nth-child(3) {
     .bpw-composer {
         padding-left: 0.2rem !important;
     }
+	.bpw-chat-bubble-content {
+		padding : 4px !important;
+	}
 
     body {
         max-height: 100vh !important;

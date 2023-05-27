@@ -207,35 +207,37 @@ body >div:nth-child(3) {
     .bpw-button {
         font-size: 1rem !important;
     }
+    
 	.bpw-bot-avatar img {
-height:20px;
-width:20px;
-}
+	    	height:20px;
+		width:20px;
+	}
 
-.bpw-header-icon svg { 
-height: 20px;
-width: 20px;
-}
+	.bpw-header-icon svg { 
+		height: 20px;
+		width: 20px;
+	}
 	
-    .bpw-layout {
-	    width : 100% !important;
-	    max-width : 100% !important;
-     }
+    	.bpw-layout {
+	    	width : 100% !important;
+	    	max-width : 100% !important;
+     	}
 	body {
-    font-size: 0.6rem !important;
-    /* max-height: 73vh !important;*/
-}
-     .bpw-widget-btn > i > svg {
-            width: 20px;
-            height: 20px;
-     }
+    		font-size: 0.6rem !important;
+    		/* max-height: 73vh !important;*/
+	}
+     	
+	.bpw-widget-btn > i > svg {
+            	width: 20px;
+            	height: 20px;
+     	}
 
-    .bpw-widget-btn {
-        width: 55px;   /* Width of the button on mobile */
-        height: 55px;  /* Height of the button on mobile */
-        bottom: 30px;
-        right: 30px;
-    }
+	.bpw-widget-btn {
+		width: 55px;   /* Width of the button on mobile */
+		height: 55px;  /* Height of the button on mobile */
+		bottom: 30px;
+		right: 30px;
+	}
 
     .bpw-header-title,
     .bpw-header-name,

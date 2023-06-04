@@ -1,11 +1,7 @@
-.bp-widget-side {
-	pointer-events: none;
-}
-
-.bp-widget-side .bpw-widget-btn,
-        .bp-widget-side .bpw-chat-container {
+.bpw-widget-btn,
+.bpw-chat-container {
             pointer-events: auto;
-        }
+ }
 
 #bp-widget.bp-widget-side {
     bottom: 7px;

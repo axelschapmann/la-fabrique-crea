@@ -5,6 +5,7 @@
     width: 100% !important;
     height: 80% !important;
     z-index: 999;
+    margin-top: 100px;
 }
 
 #bp-widget.bp-widget-side .bp-widget-widget {

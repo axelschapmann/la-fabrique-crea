@@ -16,7 +16,7 @@
     right: 7px;
     top: unset;
     width: 100% !important;
-    height: calc(80% - 100px); !important;
+    height: calc(80% - 100px);
     z-index: 999;
 }
 

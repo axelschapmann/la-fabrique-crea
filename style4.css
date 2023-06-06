@@ -217,7 +217,7 @@ body>div:nth-child(3) {
         border: .5px solid #db3e1f;
         border-radius: 25px;
         margin: 0;
-        /* height:calc(100%);*/
+        height:calc(100%);
         overflow: hidden;
         width: 100% !important;
         max-width: 100% !important;

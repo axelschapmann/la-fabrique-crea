@@ -1,5 +1,5 @@
 .custom-chat-widget {
-	width: 120px;
+	width: 120px !important;
 	height: 130px !important;
 	bottom: 0 !important;
 	right: 0 !important;

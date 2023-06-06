@@ -1,11 +1,3 @@
-.custom-chat-widget {
-    width: 120px !important;
-    height: 130px !important;
-    bottom: 0 !important;
-    right: 0 !important;
-    position: fixed !important;
-}
-
 #bp-widget.bp-widget-side {
     bottom: 7px;
     right: 7px;
@@ -283,4 +275,12 @@ body>div:nth-child(3) {
 
 .bpw-date-container {
     margin-top: 150px;
+}
+
+.custom-chat-widget {
+    width: 120px !important;
+    height: 130px !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    position: fixed !important;
 }

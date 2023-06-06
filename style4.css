@@ -1,3 +1,11 @@
+.custom-chat-widget {
+    width: 120px !important;
+    height: 130px !important;
+    bottom: 0 !important;
+    right: 0 !important;
+    position: fixed !important;
+}
+
 #bp-widget.bp-widget-side {
     bottom: 7px;
     right: 7px;
@@ -149,9 +157,7 @@
     box-shadow: none;
     background-color: #ab0535;
     width: 65px;
-    /* Width of the button */
     height: 65px;
-    /* Height of the button */
     position: fixed;
     bottom: 50px;
     right: 50px;
@@ -247,9 +253,7 @@ body>div:nth-child(3) {
 
     .bpw-widget-btn {
         width: 55px;
-        /* Width of the button on mobile */
         height: 55px;
-        /* Height of the button on mobile */
         bottom: 30px;
         right: 30px;
     }
@@ -275,12 +279,4 @@ body>div:nth-child(3) {
 
 .bpw-date-container {
     margin-top: 150px;
-}
-
-.custom-chat-widget {
-    width: 120px !important;
-    height: 130px !important;
-    bottom: 0 !important;
-    right: 0 !important;
-    position: fixed !important;
 }

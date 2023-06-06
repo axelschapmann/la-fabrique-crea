@@ -1,10 +1,10 @@
-        .custom-chat-widget {
-            width: 120px;
-            height: 130px !important;
-            bottom: 0 !important;
-            right: 0 !important;
-            position: fixed !important;
-        }
+.custom-chat-widget {
+	width: 120px;
+	height: 130px !important;
+	bottom: 0 !important;
+	right: 0 !important;
+	position: fixed !important;
+}
 
         .expanded-chat-widget {
             width: 450px !important;

@@ -16,7 +16,7 @@
     right: 7px;
     top: unset;
     width: 100% !important;
-    height: calc(80% - 100px);
+    /* height: calc(80% - 100px); */
     z-index: 999;
 }
 
@@ -25,7 +25,7 @@
 }
 #bp-widget.bp-widget-side .bp-widget-widget {
     width: 100% !important;
-    height: 80% !important;
+    /* height: 80% !important;*/ 
 }
 
 .bpw-widget-btn > i > svg {

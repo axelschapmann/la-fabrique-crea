@@ -1,3 +1,16 @@
+        .custom-chat-widget {
+            width: 120px !important;
+            height: 130px !important;
+            bottom: 0 !important;
+            right: 0 !important;
+            position: fixed !important;
+        }
+
+        .expanded-chat-widget {
+            width: 450px !important;
+            height: 100% !important;
+        }
+
 #bp-widget.bp-widget-side {
     bottom: 7px;
     right: 7px;
